@@ -67,6 +67,3 @@ The XR Training Project is a cutting-edge solution designed for live military tr
 
 ---
 
-Contributions and suggestions are always welcome! Feel free to explore the projects and reach out if you have any ideas or feedback.
-
-(Back to Top)
